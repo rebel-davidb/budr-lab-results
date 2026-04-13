@@ -1,7 +1,7 @@
-import blackCurrantImg from "figma:asset/7e6d718bc5282000a651ba93ce80c167e729f250.png";
-import pomegranateImg from "figma:asset/88fb1102f0fca3414eb4dcfcfcc11746507bcef6.png";
-import whiteGrapeImg from "figma:asset/c0e34780fdbdf799f60c1b86c353a8a3fc63478a.png";
-import limeMintImg from "figma:asset/f66081f878d329170364e252b415b35a3eff427e.png";
+import blackCurrantImg from "/assets/images/black-currant.png";
+import pomegranateImg from "/assets/images/pomegranate-blueberry-acai.png";
+import whiteGrapeImg from "/assets/images/white-grape-pear.png";
+import limeMintImg from "/assets/images/lime-mint-elderflower.png";
 
 export interface ProductVariant {
   dose: string;
@@ -23,7 +23,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "/assets/pdfs/2603ANSCT0379-2630 - Black Hog Brewing - BUDR-BC-081.pdf"
+        coaLink: "/assets/pdfs/2603ANSCT0379-2630-BlackHogBrewing-BUDR-BC-081.pdf"
       }
     ]
   },
@@ -34,7 +34,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "/assets/pdfs/2603ANSCT0388-2680 - Black Hog Brewing - BUDR-PBA-082.pdf"
+        coaLink: "/assets/pdfs/2603ANSCT0388-2680-BlackHogBrewing-BUDR-PBA-082.pdf"
       }
     ]
   },
@@ -45,7 +45,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "/assets/pdfs/2603ANSCT0397-2730 - Black Hog Brewing - BUDR-WGP-083.pdf"
+        coaLink: "/assets/pdfs/2603ANSCT0397-2730-BlackHogBrewing-BUDR-WGP-083.pdf"
       }
     ]
   },
@@ -56,7 +56,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "/assets/pdfs/2603ANSCT0406-2780 - Black Hog Brewing - BUDR-LME-084.pdf"
+        coaLink: "/assets/pdfs/2603ANSCT0406-2780-BlackHogBrewing-BUDR-LME-084.pdf"
       }
     ]
   }
