@@ -23,7 +23,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "#"
+        coaLink: "/assets/pdfs/2603ANSCT0379-2630 - Black Hog Brewing - BUDR-BC-081.pdf"
       }
     ]
   },
@@ -34,7 +34,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "#"
+        coaLink: "/assets/pdfs/2603ANSCT0388-2680 - Black Hog Brewing - BUDR-PBA-082.pdf"
       }
     ]
   },
@@ -45,7 +45,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "#"
+        coaLink: "/assets/pdfs/2603ANSCT0397-2730 - Black Hog Brewing - BUDR-WGP-083.pdf"
       }
     ]
   },
@@ -56,7 +56,7 @@ export const products: Product[] = [
     variants: [
       {
         dose: "3MG THC",
-        coaLink: "#"
+        coaLink: "/assets/pdfs/2603ANSCT0406-2780 - Black Hog Brewing - BUDR-LME-084.pdf"
       }
     ]
   }
