@@ -1,6 +1,6 @@
 import { products } from "../data/products";
 import { ProductCard } from "./ProductCard";
-import patternImage from "figma:asset/8bcf0bad718d01f4806f8df37c2cca32bdb59f21.png";
+import patternImage from "../../assets/img_8bcf0bad.png";
 
 export function ProductMatrix() {
   return (

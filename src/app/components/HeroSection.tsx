@@ -1,6 +1,6 @@
 import { motion, useScroll, useTransform } from "motion/react";
-import backgroundImg from "figma:asset/8b36f85385c45beddfb45c115f6b71e49d3df90b.png";
-import logoImg from "figma:asset/2ac65b9fde5862ec90aa2d93fe53e15921c6f954.png";
+import backgroundImg from "../../assets/img_8b36f853.png";
+import logoImg from "../../assets/img_2ac65b9f.png";
 
 export function HeroSection() {
   const { scrollY } = useScroll();

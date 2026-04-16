@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Product } from "../data/products";
 import { FileText } from "lucide-react";
-import logoImg from "figma:asset/2ac65b9fde5862ec90aa2d93fe53e15921c6f954.png";
+import logoImg from "../../assets/img_2ac65b9f.png";
 
 interface ProductCardProps {
   product: Product;

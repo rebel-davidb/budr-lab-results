@@ -4,7 +4,7 @@ import { CTASection } from "./components/CTASection";
 import { Footer } from "./components/Footer";
 import { AgeGate } from "./components/AgeGate";
 import { useEffect } from "react";
-import faviconImage from "figma:asset/6606f61f85f8210d01a1181c87feb690ac0b8b3c.png";
+import faviconImage from "../assets/img_6606f61f.png";
 
 export default function App() {
   useEffect(() => {
